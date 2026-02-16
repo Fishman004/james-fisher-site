@@ -7,14 +7,6 @@ assignees: Fishman004
 
 ---
 
----
-name: 📌 Task
-about: Work item for portfolio site
-title: "[TASK] "
-labels: task
-assignees: ''
----
-
 ## 🧠 What
 Describe what needs to be done.
 
