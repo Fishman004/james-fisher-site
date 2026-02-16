@@ -8,20 +8,20 @@ assignees: Fishman004
 ---
 
 ---
-name: 🚀 New Feature
-about: Plan a new addition to the site
-title: 'Feature: '
-labels: enhancement
+name: 📌 Task
+about: Work item for portfolio site
+title: "[TASK] "
+labels: task
+assignees: ''
 ---
 
-## 🎯 Goal
-What is the purpose of this new feature?
+## 🧠 What
+Describe what needs to be done.
 
-## 🎨 Design/UI
-- [ ] Mobile responsive?
-- [ ] Dark mode compatible?
-- [ ] Inspiration Link: 
+## 🎯 Why
+Why does this matter?
 
-## 💻 Technical Tasks
-- [ ] Task 1
-- [ ] Task 2
+## ✅ Done When
+- [ ] Implementation complete
+- [ ] Responsive
+- [ ] Looks clean
