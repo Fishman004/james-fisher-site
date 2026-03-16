@@ -2,7 +2,7 @@
 
 Personal portfolio site showcasing my projects, skills, and experience as a fullstack software engineer.
 
-🌐 **Live:** [jamesfisher.io](https://jamesfisher.io)
+🌐 **Live:** [jamesfisher.io](https://jamesfisher.io/dev)
 
 ## Tech Stack
 - Next.js 15 / React
