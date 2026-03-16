@@ -46,7 +46,7 @@ export default function Home() {
 ]
   return (
     <main className="min-h-screen flex items-center justify-center bg-black text-white">
-      <div className="grid grid-cols-2 gap-6 pl-10 pr-10 max-w-4xl mx-auto">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto px-8">
       {projects.map((project) => (
         <ProjectCard key={project.title} project={project} />
       ))}
