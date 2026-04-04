@@ -5,7 +5,7 @@ export default function DevHome() {
         <h1 className="text-6xl font-bold text-white">James Fisher</h1>
         <h2 className="text-2xl text-yellow-400">Full Stack Developer</h2>
         <p className="text-gray-300 text-lg max-w-xl">I build clean, efficient web apps with a focus on a great user experience</p>
-        <div>
+        <div className="flex flex-col md:flex-row">
         <a href="/dev/portfolio" className="bg-yellow-400 text-black px-6 py-3 rounded font-semibold hover:bg-yellow-300 transition-colors">Check out some of my projects!</a>
         <a href="/dev/contact" className="border border-white text-white px-6 py-3 rounded font-semibold hover:bg-white hover:text-black transition-colors">Contact me!</a>
         </div>
