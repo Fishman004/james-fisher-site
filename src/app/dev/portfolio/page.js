@@ -19,7 +19,7 @@ export default function Home() {
           stack: ["Next.js", "React", "Tailwind", "Vercel"],
           date: "March, 2026",
           github: "https://github.com/Fishman004/james-fisher-site",
-          live: "jamesfisher.io",
+          live: "https://www.jamesfisher.io/dev",
           image: "/PersonalSite.png"
       },
       {
@@ -27,26 +27,26 @@ export default function Home() {
           title: "MotorRyx",
           description: "A team-built fullstack F1 data application featuring a Spring Boot REST API backend with OAuth2 authentication and a React frontend. Race and driver data is sourced and aggregated from public F1 statistics.",
           stack: ["Spring Boot", "React", "PostgreSQL"],
-          date: "May, 2026",
-          github: "null",
-          live: "null",
+          date: "March, 2026",
+          github: "https://github.com/Fishman004/MotoRYX",
+          live: "https://motoryx-frontend.onrender.com/",
           image: "/MotorRyx.png"
       },
-      {
-          //Journal App
-          title: "FishForThoughts",
-          description: "A full-stack journaling web app with user authentication, streak tracking, and a daily prompt dashboard. Built with Next.js and Supabase. Coming soon.",
-          stack: ["Next.js","Spring Boot", "PostgreSQL"],
-          date: "April, 2026",
-          github: "null",
-          live: "null",
-          image: "/Placeholder.png"
-      }
+      // {
+      //     //Journal App
+      //     title: "FishForThoughts",
+      //     description: "A full-stack journaling web app with user authentication, streak tracking, and a daily prompt dashboard. Built with Next.js and Supabase. Coming soon.",
+      //     stack: ["Next.js","Spring Boot", "PostgreSQL"],
+      //     date: "April, 2026",
+      //     github: "null",
+      //     live: "null",
+      //     image: "/Placeholder.png"
+      // }
 
 ]
   return (
     <main className="min-h-screen flex items-center justify-center bg-black text-white">
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto px-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto px-8 items-stretch">
       {projects.map((project) => (
         <ProjectCard key={project.title} project={project} />
       ))}
