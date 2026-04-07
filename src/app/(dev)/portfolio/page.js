@@ -19,7 +19,7 @@ export default function Home() {
           stack: ["Next.js", "React", "Tailwind", "Vercel"],
           date: "March, 2026",
           github: "https://github.com/Fishman004/james-fisher-site",
-          live: "https://www.jamesfisher.io/dev",
+          live: "https://www.jamesfisher.io",
           image: "/PersonalSite.png"
       },
       {
