@@ -2,7 +2,7 @@
 
 Personal portfolio site showcasing my projects, skills, and experience as a fullstack software engineer.
 
-🌐 **Live:** [jamesfisher.io](https://jamesfisher.io/dev)
+🌐 **Live:** [jamesfisher.io](https://jamesfisher.io)
 
 ## Tech Stack
 - Next.js 15 / React
@@ -60,4 +60,4 @@ Personal portfolio site showcasing my projects, skills, and experience as a full
 
 ## Contact
 
-James Fisher — [jamesfisher.io/dev/contact](https://jamesfisher.io/dev/contact) — dwfishman4@gmail.com
+James Fisher — [jamesfisher.io/contact](https://jamesfisher.io/contact) — fishman4@me.com

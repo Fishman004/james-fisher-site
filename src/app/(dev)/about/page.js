@@ -1,6 +1,6 @@
 export default function About() {
   const githubLink = "https://github.com/Fishman004"
-  const linkedInLink = "https://www.linkedin.com/in/james-fisher-9598ab212/"
+  const linkedInLink = "https://www.linkedin.com/in/james-fisher-dev/"
 
   const skills = [
     "React", "Next.js", "JavaScript", "TypeScript",

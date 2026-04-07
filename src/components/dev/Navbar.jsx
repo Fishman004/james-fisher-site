@@ -4,11 +4,11 @@ import { usePathname } from "next/navigation";
 export default function DevNavbar(){
 
     const links = [
-        { href: '/dev', label: 'Home' },
-        { href: '/dev/about', label: 'About'},
-        { href: '/dev/contact', label: 'Contact'},
-        { href: '/dev/portfolio', label: 'Portfolio'},
-        { href: '/dev/resume', label: 'Resume'}
+        { href: '/', label: 'Home' },
+        { href: '/about', label: 'About'},
+        { href: '/contact', label: 'Contact'},
+        { href: '/portfolio', label: 'Portfolio'},
+        { href: '/resume', label: 'Resume'}
 
     ]
     const pathname = usePathname()
